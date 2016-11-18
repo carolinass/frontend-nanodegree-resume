@@ -1,4 +1,6 @@
----> Project online at https://carolinass.github.io/frontend-nanodegree-resume/
+------------------------------------------------------------------------------
+### Project online at https://carolinass.github.io/frontend-nanodegree-resume/
+------------------------------------------------------------------------------
 
 # Project Details
 ## How do I complete this project?
